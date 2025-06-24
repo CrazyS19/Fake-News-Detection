@@ -34,7 +34,5 @@ In an era of information overload, fake news poses a serious threat to society b
   - `label`: 0 = Real, 1 = Fake
 - **Size**: ~20,000+ news articles
 
----
 
-## 📁 Project Structure
 
